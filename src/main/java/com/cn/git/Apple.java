@@ -2,6 +2,6 @@ package com.cn.git;
 
 public class Apple {
     public static void main(String[] args) {
-		System.out.println("这是一个apple.java类");
+		System.out.println("杩欐槸涓�涓嫻鏋滅被");
 	}
 }
