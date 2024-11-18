@@ -1,1 +1,5 @@
-这是一个Hello.java文件
+package com.cn.git;
+
+public class Hello {
+     
+}
