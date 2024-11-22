@@ -6,6 +6,7 @@ public class Apple {
 		System.out.println("这是一个苹果类");
 		System.out.println("用户用户张三修改了当前行");
 		System.out.println("用户李四对当前类进行补充");
+		System.out.println("新增hot_fix分支。。。");
 		
 	}
 }
